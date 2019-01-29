@@ -15,5 +15,5 @@ Running the App:
 5. Hit the play button in XCode and wait. The simulator usually takes a while to open the app
 6. Thats it! Play around - 'Email' and 'Password' fields currently take any valid alphanumeric combination, so
     type in whatever you wish to start interacting with the main app.
-TO ADD AN ITEM: press the + button at the top right
-TO DELETE AN ITEM: drag and swipe an item to the left, and you should see a red 'Delete' button open up. Simply click on this.
+7. TO ADD AN ITEM: press the + button at the top right
+8. TO DELETE AN ITEM: drag and swipe an item to the left, and you should see a red 'Delete' button open up. Simply click on this.
