@@ -26,6 +26,8 @@
 /// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 /// THE SOFTWARE.
 
+// Everything is easy to read and functional. Maybe you should include more documentation for your methods? -Sabrina
+
 import UIKit
 import Firebase
 
